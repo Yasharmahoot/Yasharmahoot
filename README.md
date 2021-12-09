@@ -2,7 +2,7 @@
 - 👀 I’m interested in crypto
 - 🌱 I’m currently learning about metavers
 - 💞️ I’m looking to collaborate on crypto groups
-- 📫 How to reach me yasharmahoot teegram
+- 📫 How to reach me yasharmahoot telgram
 
 <!---
 Yasharmahoot/Yasharmahoot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
